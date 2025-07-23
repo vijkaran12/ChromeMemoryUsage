@@ -43,3 +43,12 @@ It's beginner-friendly, customizable, and teaches a lot about process monitoring
 ```bash
 git clone https://github.com/vijkaran12/ChromeMemoryUsage.git
 cd ChromeMemoryUsage
+
+Install the dependencies
+
+pip install -r requirements.txt
+
+
+Run with the Streamlit UI (recommended)
+
+streamlit run chrome_monitor.py
